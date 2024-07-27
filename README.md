@@ -3,8 +3,8 @@ Collect and process data from customers, use models to predict the bank churn ra
 
 # Folder
 Churn_prediction:
-    BankChurners.csv
-    churn_train.ipynb
-    ChurnDashbroad.pbix
-    Data_Visualization.ipynb
+    `data`: BankChurners.csv
+    `train`: churn_train.ipynb
+    `visualization`: Data_Visualization.ipynb
+    `dashboard`: ChurnDashbroad.pbix
 
