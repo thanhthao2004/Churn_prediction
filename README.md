@@ -14,13 +14,11 @@ The project aims to collect and process customer data, using machine learning mo
 
 ## Folder Structure
 ```
-
 Churn\_prediction/
 ├── data/                  # Contains the BankChurners.csv file
 ├── train/                 # Contains the churn\_train.ipynb notebook
 ├── visualization/         # Contains the Data\_Visualization.ipynb notebook
 └── dashboard/             # Contains the ChurnDashboard.pbix file
-
 ```
 
 ## Result Scores Model:
